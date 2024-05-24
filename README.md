@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreya Singh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-singh-8aa5a4228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ShreyaS33523273) 
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
