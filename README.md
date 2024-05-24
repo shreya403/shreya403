@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate frontend developer currently pursuing my degree in Mechanical and Automation Engineering (MAE) at Indira Gandhi Delhi Technical University for Women (IGDTUW). I love creating interactive and user-friendly web applications that provide seamless experiences.</h3>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-singh-8aa5a4228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/ShreyaS33523273) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-singh-8aa5a4228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/shreya403) 
 
 </p>
 
